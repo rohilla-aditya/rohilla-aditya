@@ -2,9 +2,6 @@
 
 I am Aditya.
 
-![Image of Aditya](https://therandomdeveloper.files.wordpress.com/2020/08/me2.jpeg?w=400&h=598)
-
-
 
 I am a Software Engineer residing in Seattle, Washington. I spend my day time developing distributed Big Data systems at Amazon Inc. and evenings tinkering with my personal applied ML projects.
 
