@@ -3,13 +3,13 @@
 I am Aditya.
 
 
-I am a Software Engineer residing in Seattle, Washington. I spend my day time developing distributed Big Data systems at Amazon Inc. and evenings tinkering with my personal applied ML projects.
+I am a Software Engineer residing in Seattle, Washington. I spend my day time developing backend systems at Abnormal Security and evenings tinkering with my personal applied ML projects.
 
 I am particularly interested in all things Technology, Engineering and Products and write about these topics. Check out my Blog at  [adityarohilla.com](http://adityarohilla.com) ! 
 
 ## Work 
 
-I currently work at the World Wide Operations Finance org at Amazon as a Software Development Engineer. I have previously worked as a Software Engineer at Walmart Labs, Samsung Research and Myntra. I also write on different Medium publications like Mindorks, Towards Data Science and HackerNoon.
+I currently work at the Product team at Abnormal Security. I have previously worked as a Software Engineer at Amazon Inc, Walmart Labs, Samsung Research and Myntra. I also write on different Medium publications like Mindorks, Towards Data Science and HackerNoon.
 
 ## Personal
 
