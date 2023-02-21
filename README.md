@@ -3,7 +3,7 @@
 I am Aditya.
 
 
-I am a Software Engineer residing in Seattle, Washington. I spend my day time developing backend systems at Abnormal Security and evenings tinkering with my personal applied ML projects.
+I am a Software Engineer residing in Seattle, Washington. I spend my day time developing backend systems and evenings tinkering with my personal applied ML projects.
 
 I am particularly interested in all things Technology, Engineering and Products and write about these topics. Check out my Blog at  [adityarohilla.com](http://adityarohilla.com) ! 
 
