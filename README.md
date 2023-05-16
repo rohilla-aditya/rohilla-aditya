@@ -13,6 +13,6 @@ I currently work at the Product team at Abnormal Security. I have previously wor
 
 ## Personal
 
-When I am not coding or designing applications, I spend my time either on Twitter reading about latest startups or watching crime shows / anime on Netflix. Recently graduated from Arizona State University (Go devils!). Always ready to pet a dog
+When I am not coding or designing applications, I spend my time either on Twitter reading about latest startups or watching crime shows / anime on Netflix. Proud Arizona State University alum (Go devils!). Always ready to pet a dog
 
 If you wish to connect, drop me a hi on Twitter or Linkedin!
